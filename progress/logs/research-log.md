@@ -92,3 +92,11 @@ Chronological record of research activities.
 - Updated source-review-results (63 sources; 10 partial; 0 full-text; 0 approved).
 - No manuscripts modified.
 
+
+### 2026-11-01 - Dossier 04 Integration
+- Registered SRC-0064 to SRC-0075 (12 new sources). Total 75.
+- Updated comparative-analysis.md and working-framework.md.
+- Created dossier-04-theoretical-implications.md and DOSSIER_04_INTEGRATION_REPORT.md.
+- Updated source-review-results (75 sources; 10 partial; 0 full-text; 0 approved).
+- No manuscripts modified.
+

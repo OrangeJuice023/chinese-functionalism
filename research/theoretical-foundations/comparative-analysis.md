@@ -31,3 +31,11 @@
 - Whether this constitutes a "functionalist" doctrine or pragmatic statecraft is an open question.
 - Power asymmetry and strategic interests must be central, not assumed away.
 - The framework must be falsifiable: specify scope conditions and disconfirming evidence.
+
+## Chinese IR Scholarship (Dossier 04)
+- Relational theory, moral realism, Tianxia, symbiosis theory are not functionalist variants.
+- Functionalism appears as an established analytical approach in Chinese IR, not as a distinct Chinese school.
+- Chinese School debate is plural and contested (Katzenstein 2024; Lu 2024; Ren 2020/2024).
+- Jiang & Zheng (2025) and Zheng (2025) examine China-ASEAN maritime cooperation via institutional nesting and COC negotiations.
+- No evidence of an established 'Chinese Functionalism' theory.
+

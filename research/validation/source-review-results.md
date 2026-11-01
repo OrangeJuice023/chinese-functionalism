@@ -1,11 +1,11 @@
 # Source Review Results
 
 ## Review Status Summary
-- Total registered sources: 63
+- Total registered sources: 75
 - FULL TEXT REVIEWED: 0
 - PARTIAL: 10 (SRC-0009, SRC-0010, SRC-0011, SRC-0020, SRC-0023, SRC-0027, SRC-0028, SRC-0030, SRC-0038, SRC-0054)
-- METADATA VERIFIED: 63
-- FLAGGED FOR MANUAL REVIEW: 4 (SRC-0005, SRC-0012, SRC-0015, SRC-0017)
+- METADATA VERIFIED: 75
+- FLAGGED FOR MANUAL REVIEW: 5 (SRC-0005, SRC-0012, SRC-0015, SRC-0017, SRC-0064)
 - APPROVED: 0 (human approval required)
 
 ## Notes
@@ -80,5 +80,18 @@ SRC-0019 to SRC-0031 added; metadata verified; full-text review pending. See `re
 | SRC-0061 | Mindef Singapore 2026 | Yes | No | No | Official declaration |
 | SRC-0062 | Reuters 2026 | Yes | No | No | News reporting |
 | SRC-0063 | PNA DFA 2026 | Yes | No | No | News reporting |
+
+| SRC-0064 | Guan & Guimarães (2024) | Yes | No | No | Publication-year discrepancy |
+| SRC-0065 | Guzzini (2024) | Yes | No | No | Full text pending |
+| SRC-0066 | Hwang (2021) | Yes | No | No | Full text pending |
+| SRC-0067 | Katzenstein (2024) | Yes | No | No | Full text pending |
+| SRC-0068 | Li & Wang (2026) | Yes | No | No | AI summary only; full text required |
+| SRC-0069 | Lu (2024) | Yes | No | No | Full text pending |
+| SRC-0070 | Ren (2020) | Yes | No | No | Full text pending |
+| SRC-0071 | Ren (2024) | Yes | No | No | Full text pending |
+| SRC-0072 | Wang & Buzan (2014) | Yes | No | No | Full text pending |
+| SRC-0073 | Xu (2012) | Yes | No | No | Full text pending |
+| SRC-0074 | Jiang & Zheng (2025) | Yes | No | No | Abstract reviewed |
+| SRC-0075 | Zheng (2025) | Yes | No | No | Abstract reviewed |
 
 FULL TEXT REVIEWED: 0. APPROVED: 0. No source approval status changed.

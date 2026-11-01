@@ -42,3 +42,10 @@
 - Unlike neofunctionalism, does not predict automatic political integration.
 - Unlike liberal institutionalism, centers power asymmetry and strategic interests.
 - Unlike Chinese IR theories, is practice-grounded and sectoral rather than civilizational.
+
+## Dossier 04 Update
+- Chinese Functionalism is a project-proposed analytical lens, not an established Chinese IR theory.
+- The word 'Chinese' may refer to empirical focus, not intellectual origin.
+- Four meanings distinguished: official doctrine, Chinese School branch, project-proposed adaptation, descriptive study.
+- Recommended positioning: provisional analytical lens whose value depends on comparative testing.
+

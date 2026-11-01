@@ -52,7 +52,11 @@ Entries below are for sources whose metadata has been verified. Full-text review
 - **Relevance to Project:** Functional cooperation in infrastructure.
 - **Status:** METADATA VERIFIED.
 
-## SRC-0044 to SRC-0063 — Independent Research Dossier 03 Leads
+## SRC-0064 to SRC-0075 — Independent Research Dossier 04 Leads
+- **Sources:** Guan & Guimarães (2024), Guzzini (2024), Hwang (2021), Katzenstein (2024), Li & Wang (2026), Lu (2024), Ren (2020, 2024), Wang & Buzan (2014), Xu (2012), Jiang & Zheng (2025), Zheng (2025).
+- **Status:** METADATA VERIFIED; full-text review pending for most; Li & Wang reviewed via AI summary only.
+- **Relevance:** Chinese School debate, functionalism in Chinese IR, Chinese-language maritime cooperation studies.
+- **Notes:** See dossier 04. No source marked APPROVED. Publication-year discrepancy for Guan & Guimarães.
 - **Sources:** ASEAN DOC (2002), ASEAN maritime portals, SOM/JWG records, PCA arbitral award, MFA PRC statements, DFA Philippines, ISEAS/AMTI/RSIS analyses, PIA/PCO/PNA reports, Reuters, Mindef Singapore.
 - **Status:** METADATA VERIFIED; full-text review pending.
 - **Relevance:** Maritime cooperation, COC negotiations, BCM, Second Thomas Shoal, arbitral award, differentiated assertiveness.
