@@ -53,3 +53,20 @@ Chronological record of research activities.
 - No full-text reviews completed; 15 sources inaccessible.
 - No sources approved.
 
+
+### 2026-11-01 - Phase 4 Manuscript Development
+- Created draft/WORKING_DRAFT_v0.2_CONCEPT.md (~9,000 words).
+- Created publication-package/CONCEPT_NOTE_FOR_COLLABORATORS.md.
+- Created draft/v0.2-verification-notes.md.
+- Created publication-package/README.md.
+- Preserved v0.1 manuscript.
+- No sources approved.
+
+
+### 2026-11-01 - Dossier 01 Integration
+- Registered SRC-0019 to SRC-0031 from independent research dossier.
+- Updated expanded-evidence-matrix.md with new cases.
+- Created dossier-01-theoretical-implications.md and DOSSIER_01_INTEGRATION_REPORT.md.
+- Corrected ACFTA 3.0 status (Not In Force), trade figures (preliminary), commitments vs disbursements.
+- No sources approved.
+

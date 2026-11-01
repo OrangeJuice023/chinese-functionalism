@@ -11,7 +11,8 @@
 ## Notes
 Full-text access for academic books and paywalled journal articles was not available in this environment. Three official ASEAN PDFs were partially reviewed via webfetch. Remaining sources require institutional library access or lawful copies provided by the research team. No source marked APPROVED.
 
-## Per-Source Status
+## New Sources from Dossier 01
+SRC-0019 to SRC-0031 added; metadata verified; full-text review pending. See `research/independent-research/DOSSIER_01_INTEGRATION_REPORT.md`.
 | Source ID | Title | Metadata Verified | Full Text Reviewed | Flagged | Notes |
 |---|---|---|---|---|---|
 | SRC-0001 | A Working Peace System (Mitrany 1943) | Yes | No | No | UNESCO record verified |

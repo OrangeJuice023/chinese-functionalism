@@ -52,7 +52,11 @@ Entries below are for sources whose metadata has been verified. Full-text review
 - **Relevance to Project:** Functional cooperation in infrastructure.
 - **Status:** METADATA VERIFIED.
 
-## SRC-0018 — Kuik, Cheng-Chwee (2008)
+## SRC-0019 to SRC-0031 — Independent Research Dossier 01 Leads
+- **Sources:** Ang (2026), Custer et al. (2024), Lane (2020), Putri & Mahani (2024), Velasco (2026), Wang & Tao (2024), Wijaya (2024), World Bank (2020, 2024), State Council/Xinhua (2026), ASEANstats, ASEAN Legal Instruments, Enterprise Singapore.
+- **Status:** METADATA VERIFIED; full-text review pending for most.
+- **Relevance:** Trade asymmetry, ACFTA 3.0 status, China-Laos Railway, Jakarta-Bandung HSR, Philippine development finance, differentiated maritime coercion.
+- **Notes:** See `research/independent-research/Chinese_Functionalism_Independent_Research_Dossier_01.md` for details. No source marked APPROVED.
 - **Citation:** Kuik, C.-C. (2008). The essence of hedging: Malaysia and Singapore's response to a rising China. *Contemporary Southeast Asia*, 30(2), 159-185.
 - **Central Argument:** Smaller states hedge rather than balance or bandwagon, combining engagement with insurance.
 - **Relevance to Project:** Smaller-state agency amid asymmetry.
