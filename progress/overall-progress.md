@@ -5,15 +5,15 @@
 | Phase | Status | Notes |
 |---|---|---|
 | Workspace setup | Completed | Directory structure and core docs created |
-| Source collection | In progress | 18 sources registered (SRC-0001 to SRC-0018) |
+| Source collection | Completed | 18 sources registered |
 | Source verification | In progress | Metadata verified; full-text review pending |
-| Literature review | In progress | Theoretical foundations and comparative analysis drafted |
-| Theoretical development | In progress | Working framework drafted (provisional) |
-| Conceptual framework | In progress | working-framework.md created |
-| Research gaps | In progress | Identified in working framework |
+| Literature review | In progress | Phase 2 audit completed |
+| Theoretical development | In progress | Competing formulations developed |
+| Conceptual framework | In progress | Framework critiqued; provisional definition refined |
+| Research gaps | In progress | Identified in audit |
 | Chapter development | Not started | No approved chapter architecture |
-| Manuscript review | In progress | WORKING_DRAFT_v0.1.md produced (~6,000 words) |
-| Pending human decisions | Open | Citation style, chapter architecture, source approval |
+| Manuscript review | In progress | v0.1 preserved; v0.2 pending |
+| Pending human decisions | Open | Citation style, chapter architecture, source approval, framework viability |
 
 ## Next Steps
 
