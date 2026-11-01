@@ -1,0 +1,49 @@
+# .gitignore for Chinese Functionalism research repository
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary / build artifacts
+*.tmp
+*.temp
+*.log
+*.bak
+*.orig
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+npm-debug.log*
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.out
+*.toc
+*.synctex.gz
+
+# Office temp
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Large binary source materials (keep local only; track metadata in links/)
+# Uncomment if you decide not to version these:
+# raw-materials/**/*.pdf
+# raw-materials/**/*.docx
+
+# Exports (generated; regenerate from Markdown)
+draft/exports/docx/
+draft/exports/pdf/
