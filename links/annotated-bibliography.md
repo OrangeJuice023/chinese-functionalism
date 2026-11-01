@@ -52,7 +52,11 @@ Entries below are for sources whose metadata has been verified. Full-text review
 - **Relevance to Project:** Functional cooperation in infrastructure.
 - **Status:** METADATA VERIFIED.
 
-## SRC-0032 to SRC-0043 — Independent Research Dossier 02 Leads
+## SRC-0044 to SRC-0063 — Independent Research Dossier 03 Leads
+- **Sources:** ASEAN DOC (2002), ASEAN maritime portals, SOM/JWG records, PCA arbitral award, MFA PRC statements, DFA Philippines, ISEAS/AMTI/RSIS analyses, PIA/PCO/PNA reports, Reuters, Mindef Singapore.
+- **Status:** METADATA VERIFIED; full-text review pending.
+- **Relevance:** Maritime cooperation, COC negotiations, BCM, Second Thomas Shoal, arbitral award, differentiated assertiveness.
+- **Notes:** See dossier 03. No source marked APPROVED. Incident reports are official accounts pending corroboration.
 - **Sources:** ASEAN/UNCTAD Investment Report 2025, World Bank Vietnam 2045, Wang (ISEAS) DSR, IEA (2024, 2026 x2), ASEAN SEOM DEFA statement, OECD critical minerals, MIDA 2025, Singapore MTI, World Bank Cambodia, ASEAN digital sector portal.
 - **Status:** METADATA VERIFIED; full-text review pending.
 - **Relevance:** Supply chains, clean energy, digital infrastructure, state strategies, value capture.

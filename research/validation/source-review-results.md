@@ -1,10 +1,10 @@
 # Source Review Results
 
 ## Review Status Summary
-- Total registered sources: 43
+- Total registered sources: 63
 - FULL TEXT REVIEWED: 0
-- PARTIAL: 9 (SRC-0009, SRC-0010, SRC-0011, SRC-0020, SRC-0023, SRC-0027, SRC-0028, SRC-0030, SRC-0038)
-- METADATA VERIFIED: 43
+- PARTIAL: 10 (SRC-0009, SRC-0010, SRC-0011, SRC-0020, SRC-0023, SRC-0027, SRC-0028, SRC-0030, SRC-0038, SRC-0054)
+- METADATA VERIFIED: 63
 - FLAGGED FOR MANUAL REVIEW: 4 (SRC-0005, SRC-0012, SRC-0015, SRC-0017)
 - APPROVED: 0 (human approval required)
 
@@ -59,5 +59,26 @@ SRC-0019 to SRC-0031 added; metadata verified; full-text review pending. See `re
 | SRC-0041 | Singapore MTI electronics 2026 | Yes | No | No | Semiconductors 80.2% of electronics VVA |
 | SRC-0042 | World Bank Cambodia 2026 | Yes | No | No | FDI 5.1B USD 2025; weak linkages |
 | SRC-0043 | ASEAN Digital Sector key documents | Yes | No | No | Regulatory development index |
+
+| SRC-0044 | ASEAN DOC 2002 | Yes | No | No | Primary document |
+| SRC-0045 | ASEAN priority areas SCS | Yes | No | No | Dynamic portal |
+| SRC-0046 | ASEAN maritime cooperation | Yes | No | No | Dynamic portal |
+| SRC-0047 | ASEAN 25th SOM-DOC 2026 | Yes | No | No | Official record |
+| SRC-0048 | ASEAN 26th SOM-DOC 2026 | Yes | No | No | Official record |
+| SRC-0049 | MFA PRC 57th JWG 2026 | Yes | No | No | Official account |
+| SRC-0050 | PCA arbitral award 2016 | Yes | No | No | Primary legal document |
+| SRC-0051 | MFA PRC statement on award | Yes | No | No | Official statement |
+| SRC-0052 | DFA Philippines RoRe 2024 | Yes | No | No | Official statement |
+| SRC-0053 | Lye (ISEAS) BCM 2024 | Yes | No | No | Policy analysis |
+| SRC-0054 | Liu (AMTI) provisional arrangement 2026 | Yes | Partial | No | Policy analysis |
+| SRC-0055 | Banlaoi (RSIS) COC 2026 | Yes | No | No | Commentary |
+| SRC-0056 | PIA/PCO COC 2026 | Yes | No | No | Official statement |
+| SRC-0057 | PIA/NTF-WPS 2026 | Yes | No | No | Official statement |
+| SRC-0058 | PIA/PCG flares 2026 | Yes | No | No | Official statement |
+| SRC-0059 | DFA Philippines 2026 | Yes | No | No | Official statement |
+| SRC-0060 | PNA Marcos COC 2026 | Yes | No | No | News reporting |
+| SRC-0061 | Mindef Singapore 2026 | Yes | No | No | Official declaration |
+| SRC-0062 | Reuters 2026 | Yes | No | No | News reporting |
+| SRC-0063 | PNA DFA 2026 | Yes | No | No | News reporting |
 
 FULL TEXT REVIEWED: 0. APPROVED: 0. No source approval status changed.

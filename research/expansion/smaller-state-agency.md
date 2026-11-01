@@ -20,3 +20,9 @@ Do not assume hedging applies equally. Smaller-state agency is a key test for th
 - Cambodia: FDI growth with weak domestic supplier linkages.
 - Philippines: mineral policy contrast; digital investment strategy.
 
+
+## Dossier 03 Additions (Maritime)
+- Philippines: BCM, provisional RoRe arrangement, arbitral award, diplomatic/legal strategies.
+- Vietnam: differentiated assertiveness comparison (Velasco 2026).
+- ASEAN: DOC/COC negotiations, institutional engagement.
+

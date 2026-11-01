@@ -84,3 +84,11 @@ Chronological record of research activities.
 - Created dossier-02-theoretical-implications.md and DOSSIER_02_INTEGRATION_REPORT.md.
 - Total sources now 43. FULL TEXT REVIEWED: 0; APPROVED: 0.
 
+
+### 2026-11-01 - Dossier 03 Integration
+- Registered SRC-0044 to SRC-0063 (20 new sources; reused SRC-0023). Total 63.
+- Updated source register, annotated bibliography, expanded evidence matrix (2 new cases), smaller-state-agency.
+- Created south-china-sea-maritime-cooperation.md, philippines-china-maritime-competition.md, dossier-03-theoretical-implications.md, DOSSIER_03_INTEGRATION_REPORT.md.
+- Updated source-review-results (63 sources; 10 partial; 0 full-text; 0 approved).
+- No manuscripts modified.
+
