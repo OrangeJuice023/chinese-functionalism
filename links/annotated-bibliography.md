@@ -52,7 +52,11 @@ Entries below are for sources whose metadata has been verified. Full-text review
 - **Relevance to Project:** Functional cooperation in infrastructure.
 - **Status:** METADATA VERIFIED.
 
-## SRC-0019 to SRC-0031 — Independent Research Dossier 01 Leads
+## SRC-0032 to SRC-0043 — Independent Research Dossier 02 Leads
+- **Sources:** ASEAN/UNCTAD Investment Report 2025, World Bank Vietnam 2045, Wang (ISEAS) DSR, IEA (2024, 2026 x2), ASEAN SEOM DEFA statement, OECD critical minerals, MIDA 2025, Singapore MTI, World Bank Cambodia, ASEAN digital sector portal.
+- **Status:** METADATA VERIFIED; full-text review pending.
+- **Relevance:** Supply chains, clean energy, digital infrastructure, state strategies, value capture.
+- **Notes:** See dossier 02. No source marked APPROVED.
 - **Sources:** Ang (2026), Custer et al. (2024), Lane (2020), Putri & Mahani (2024), Velasco (2026), Wang & Tao (2024), Wijaya (2024), World Bank (2020, 2024), State Council/Xinhua (2026), ASEANstats, ASEAN Legal Instruments, Enterprise Singapore.
 - **Status:** METADATA VERIFIED; full-text review pending for most.
 - **Relevance:** Trade asymmetry, ACFTA 3.0 status, China-Laos Railway, Jakarta-Bandung HSR, Philippine development finance, differentiated maritime coercion.

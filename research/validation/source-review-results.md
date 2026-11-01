@@ -1,10 +1,10 @@
 # Source Review Results
 
 ## Review Status Summary
-- Total registered sources: 18
+- Total registered sources: 43
 - FULL TEXT REVIEWED: 0
-- PARTIAL (official docs): 3 (SRC-0009, SRC-0010, SRC-0011)
-- METADATA VERIFIED: 18
+- PARTIAL: 9 (SRC-0009, SRC-0010, SRC-0011, SRC-0020, SRC-0023, SRC-0027, SRC-0028, SRC-0030, SRC-0038)
+- METADATA VERIFIED: 43
 - FLAGGED FOR MANUAL REVIEW: 4 (SRC-0005, SRC-0012, SRC-0015, SRC-0017)
 - APPROVED: 0 (human approval required)
 
@@ -33,3 +33,31 @@ SRC-0019 to SRC-0031 added; metadata verified; full-text review pending. See `re
 | SRC-0016 | Acharya (2014) | Yes | No | No | Polity |
 | SRC-0017 | Zhang Feng (2015) | Yes | No | Yes | Citation incomplete |
 | SRC-0018 | Kuik (2008) | Yes | No | No | CSEA article |
+| SRC-0019 | Ang (2026) | Yes | No | No | RSIS commentary |
+| SRC-0020 | Custer et al. (2024) | Yes | Partial | No | AidData report reviewed (HTML) |
+| SRC-0021 | Lane (2020) | Yes | No | No | ADBI working paper |
+| SRC-0022 | Putri & Mahani (2024) | Yes | No | No | Scenario-based financial model; not realized outcomes |
+| SRC-0023 | Velasco (2026) | Yes | Partial | No | Open-access article sections reviewed |
+| SRC-0024 | Wang & Tao (2024) | Yes | No | No | Abstract/index reviewed |
+| SRC-0025 | Wijaya (2024) | Yes | No | No | Open access; full text pending |
+| SRC-0026 | World Bank (2020) | Yes | No | No | Publication page reviewed |
+| SRC-0027 | State Council/Xinhua (2026) | Yes | Partial | No | News item reviewed |
+| SRC-0028 | World Bank (2024) | Yes | Partial | No | Annual report section reviewed |
+| SRC-0029 | ASEANstats | Yes | No | No | Data portal metadata |
+| SRC-0030 | ASEAN Legal Instruments ACFTA 3.0 | Yes | Partial | No | Status page reviewed |
+| SRC-0031 | Enterprise Singapore ACFTA | Yes | No | No | Official summary |
+
+| SRC-0032 | ASEAN/UNCTAD Investment Report 2025 | Yes | No | No | ASEAN-wide FDI; not China-only |
+| SRC-0033 | World Bank Vietnam 2045 | Yes | No | No | Foreign export share; domestic linkages |
+| SRC-0034 | Wang (ISEAS) DSR | Yes | No | No | IISS dataset through 2020 |
+| SRC-0035 | IEA Southeast Asia Energy Outlook 2024 | Yes | No | No | Energy demand and supply chains |
+| SRC-0036 | IEA Energy Technology Supply Chains 2026 | Yes | No | No | China investment share; capacity data |
+| SRC-0037 | IEA Expanding Power Trade in ASEAN 2026 | Yes | No | No | Governance/regulatory barriers |
+| SRC-0038 | ASEAN SEOM DEFA statement 2026 | Yes | Partial | No | Negotiations concluded; not signed |
+| SRC-0039 | OECD Critical Minerals 2026 | Yes | No | No | Indonesia nickel; Philippine contrast |
+| SRC-0040 | MIDA Malaysia Investment Performance 2025 | Yes | No | No | Approved vs realized investment |
+| SRC-0041 | Singapore MTI electronics 2026 | Yes | No | No | Semiconductors 80.2% of electronics VVA |
+| SRC-0042 | World Bank Cambodia 2026 | Yes | No | No | FDI 5.1B USD 2025; weak linkages |
+| SRC-0043 | ASEAN Digital Sector key documents | Yes | No | No | Regulatory development index |
+
+FULL TEXT REVIEWED: 0. APPROVED: 0. No source approval status changed.

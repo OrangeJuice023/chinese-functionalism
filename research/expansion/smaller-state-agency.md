@@ -11,3 +11,12 @@ Smaller states do not merely receive China's functional cooperation; they negoti
 - Philippines: economic engagement constrained by maritime disputes and alliance politics.
 
 Do not assume hedging applies equally. Smaller-state agency is a key test for the proposed framework: if cooperation is purely top-down, functionalism's emphasis on mutual needs is weakened.
+
+## Dossier 02 Additions
+- Vietnam: export integration with upstream dependence; supplier upgrading agenda.
+- Malaysia: industrial strategy targeting higher-value semiconductor functions.
+- Singapore: advanced electronics, finance, and regional services node.
+- Indonesia: nickel downstreaming via export restrictions; Chinese capital and technology.
+- Cambodia: FDI growth with weak domestic supplier linkages.
+- Philippines: mineral policy contrast; digital investment strategy.
+

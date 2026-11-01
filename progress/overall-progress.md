@@ -5,8 +5,8 @@
 | Phase | Status | Notes |
 |---|---|---|
 | Workspace setup | Completed | Directory structure and core docs created |
-| Source collection | Completed | 18 sources registered |
-| Source verification | In progress | Metadata verified; full-text review pending |
+| Source collection | Completed | 43 sources registered |
+| Source verification | In progress | 31 sources; metadata verified; 8 partial; 0 full-text; 0 approved |
 | Literature review | In progress | Phase 2 audit completed |
 | Theoretical development | In progress | Competing formulations developed |
 | Conceptual framework | In progress | Framework critiqued; provisional definition refined |

@@ -70,3 +70,17 @@ Chronological record of research activities.
 - Corrected ACFTA 3.0 status (Not In Force), trade figures (preliminary), commitments vs disbursements.
 - No sources approved.
 
+
+### 2026-11-01 - Source Review Cleanup
+- Updated source-review-results.md to account for all 31 sources.
+- Fixed SRC-0030 and SRC-0031 URLs in source-register.md.
+- Confirmed SRC-0022 scenario-based results not realized outcomes.
+- FULL TEXT REVIEWED: 0; APPROVED: 0.
+
+
+### 2026-11-01 - Dossier 02 Integration
+- Registered SRC-0032 to SRC-0043 from independent research dossier 02.
+- Updated expanded-evidence-matrix.md and smaller-state-agency.md.
+- Created dossier-02-theoretical-implications.md and DOSSIER_02_INTEGRATION_REPORT.md.
+- Total sources now 43. FULL TEXT REVIEWED: 0; APPROVED: 0.
+
