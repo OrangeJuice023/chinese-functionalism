@@ -40,6 +40,19 @@ When an agent completes a task, it must provide:
 6. Outstanding questions.
 7. Recommended next steps.
 
+## Chapter Drafting Rules
+
+- Each chapter lives in its own folder under `draft/chapters/CH##_working-title/`.
+- `draft.md` is the canonical working manuscript for that chapter; do not create competing versions.
+- A consolidated manuscript is a compiled output of individual chapter drafts; preserve originals.
+- Include current chapter status in `chapter-brief.md` using: PLANNING, RESEARCHING, OUTLINING, DRAFTING, FOR HUMAN REVIEW, REVISION, APPROVED.
+- Do not mark a chapter finalized without human approval.
+- Chapter numbers and titles are provisional until book architecture is approved; folders may be renamed or reordered.
+- Do not invent chapters to populate directories.
+- Figures go in the chapter's `figures/` directory with title, caption, source, methodology, and limitations.
+- Academic writing: formal English, evidence-based, consistent voice, no em dashes in prose, APA 7 author-date provisionally.
+- Avoid unnecessary jargon and repetitive AI-style transitions. No fabricated references.
+
 ## Prohibited Actions
 
 - Do not silently rewrite major sections.

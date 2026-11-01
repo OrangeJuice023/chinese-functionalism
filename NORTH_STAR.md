@@ -92,7 +92,15 @@ The project examines how smaller states experience and respond to China's functi
 - Use `draft/CHAPTER_TEMPLATE.md` for formatting
 - Chapters are developed through research, not predetermined
 
-## 12. Known Project Materials
+## 11a. Provisional Chapter Planning vs. Approved Book Architecture
+
+Chapter folders, numbers, and working titles under `draft/chapters/` are provisional organizational scaffolding. They are NOT an approved table of contents.
+
+- Folders may be renamed or reordered once the book architecture is approved by collaborators.
+- Do not interpret folder names or sequence as final.
+- Do not invent chapters to populate the directory.
+- Only the collaborators can approve the final chapter architecture.
+- Mark provisional chapter plans with `[PROVISIONAL — REQUIRES HUMAN REVIEW]`.
 
 - Uploaded chapter samples (in `raw-materials/sample-formats/`) — formatting references only
 - [PROVISIONAL — REQUIRES HUMAN REVIEW] No confirmed chapter structure yet
