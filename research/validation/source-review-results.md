@@ -2,13 +2,14 @@
 
 ## Review Status Summary
 - Total registered sources: 18
-- FULL TEXT REVIEWED: 0 (full text not accessed in this environment)
+- FULL TEXT REVIEWED: 0
+- PARTIAL (official docs): 3 (SRC-0009, SRC-0010, SRC-0011)
 - METADATA VERIFIED: 18
 - FLAGGED FOR MANUAL REVIEW: 4 (SRC-0005, SRC-0012, SRC-0015, SRC-0017)
 - APPROVED: 0 (human approval required)
 
 ## Notes
-Full-text access was not available for academic books and paywalled journal articles in this environment. Metadata was verified via publisher/DOI/official URLs. Full-text review must be completed by the research team before sources can be promoted.
+Full-text access for academic books and paywalled journal articles was not available in this environment. Three official ASEAN PDFs were partially reviewed via webfetch. Remaining sources require institutional library access or lawful copies provided by the research team. No source marked APPROVED.
 
 ## Per-Source Status
 | Source ID | Title | Metadata Verified | Full Text Reviewed | Flagged | Notes |
